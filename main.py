@@ -7,3 +7,6 @@ while True:
         print("sayi çift")
     else:
         print("sayi tek")
+
+
+print("ikinci commit kısmı")

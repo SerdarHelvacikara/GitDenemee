@@ -7,3 +7,6 @@ while True:
         print("sayi çift")
     else:
         print("sayi tek")
+
+print("eski comitten açılan branch")
+    

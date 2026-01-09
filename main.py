@@ -8,5 +8,10 @@ while True:
     else:
         print("sayi tek")
 
+ 
 
 print("ikinci commit kısmı")
+
+print("eski comitten açılan branch")
+    
+ 
